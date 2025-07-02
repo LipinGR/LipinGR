@@ -1,7 +1,26 @@
-<h1 align="center">Hey I'm Julia!!! What's Up?</h1>
+<div>
+  <img align="right" width="30%" src="https://raw.githubusercontent.com/LipinGR/LipinGR/main/Miscellaneous/fir.gif" alt="img animation">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey I'm Julia!!! What's Up? 
+*Junior Developer*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Junior Developer and Machine Learning Enthusiast with a huge love for Python, Robotics, Data Visualization and 3D printing. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe every day is a learning opportunity.
+- 
+- 
+- 
+- 💻 Read my [CV](https://drive.google.com/file/d/1u8rIJyXXXcB5O4bdG0TsZy7RUnSXTaCZ/view?usp=sharing) for more details about me.
+<!--End Intro-->
+
 
 ###
-
+<p></p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo" />
 <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo" />
