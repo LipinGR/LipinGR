@@ -15,7 +15,7 @@
 - 
 - 
 - 
-- 💻 Read my [CV](https://drive.google.com/file/d/1u8rIJyXXXcB5O4bdG0TsZy7RUnSXTaCZ/view?usp=sharing) for more details about me.
+- 💻 Read my [CV](https://drive.google.com/file/d/1Qv3-iVOkoc5Eo_ffwuuskwcLU1gvjes_/view?usp=sharing) for more details about me.
 <!--End Intro-->
 
 
